@@ -1,0 +1,4 @@
+create a config.env file inside config folder
+ add MONGO_URL to it
+ FRONTEND_URL
+ PORT
